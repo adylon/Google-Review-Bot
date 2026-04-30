@@ -2,12 +2,12 @@
 Google review automation tool
 
 ### Features:
-- writes google reviews
+- writes google reviews  
 - .xlsx to input data to import to script to write reviews
 
 ### Installation:
 ```bash:
-git clone https://github.com/yourusername/project-name.git
+git clone https://github.com/adylon/Google-Review-Bot.git
 cd Google_Review_Bot
 python googleRateApp.py
 ```
