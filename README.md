@@ -4,10 +4,11 @@
 - automated google reviews
 
 ### Installation:
-##### - bash:
-- git clone https://github.com/yourusername/project-name.git
-- cd project-name
-- python googleRateApp.py
+```bash:
+git clone https://github.com/yourusername/project-name.git
+cd Google_Review_Bot
+python googleRateApp.py
+```
 
 ### Usage:
 - insert data in input.xlsx file
