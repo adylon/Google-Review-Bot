@@ -1,7 +1,9 @@
 # Google-Review-Bot
+Google review automation tool
 
 ### Features:
-- automated google reviews
+- writes google reviews
+- .xlsx to input data to import to script to write reviews
 
 ### Installation:
 ```bash:
