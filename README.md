@@ -7,7 +7,7 @@
 ##### - bash:
 - git clone https://github.com/yourusername/project-name.git
 - cd project-name
-- run both .py scripts
+- python googleRateApp.py
 
 ### Usage:
 - insert data in input.xlsx file
