@@ -1,5 +1,5 @@
 # Google-Review-Bot
-Google review automation tool
+Automation tool for writing google review 
 
 ### Features:
 - writes google reviews  
